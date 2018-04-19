@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WorldMap</string>
+    <string name="btn_busca">List</string>
+    <string name="lblContinente">"Continent: "</string>
+    <string-array name="continentes">
+        <item>All</item>
+        <item>Africa</item>
+        <item>America</item>
+        <item>Asia</item>
+        <item>Europe</item>
+        <item>Oceania</item>
+    </string-array>
+</resources>

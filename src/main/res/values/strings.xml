@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GeoData</string>
+    <string name="btn_busca">Listar</string>
+    <string name="lblContinente">Continente: </string>
+    <string-array name="continentes">
+        <item>Todos</item>
+        <item>Africa</item>
+        <item>America</item>
+        <item>Asia</item>
+        <item>Europa</item>
+        <item>Oceania</item>
+    </string-array>
+</resources>
